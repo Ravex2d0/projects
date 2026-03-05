@@ -1,13 +1,18 @@
 const projects = [
   {
-    title: "RVX binary format",
+    title: "RVX Binary Format",
     desc: "Custom binary format designed for efficient storage.",
     link: "https://ravex2d0.github.io/rvx/"
   },
   {
-    title: "LSB steganography",
+    title: "LSB Steganography",
     desc: "Hide secret messages inside images using least significant bit (LSB) encoding.",
     link: "https://ravex2d0.github.io/steganography/"
+  },
+  {
+    title: "Image Compressor & Resizer",
+    desc: "Tool for resizing images and adjusting compression quality while preserving visual clarity.",
+    link: "https://ravex2d0.github.io/image-tool/"
   }
 ];
 
