@@ -1,8 +1,8 @@
 const projects = [
   {
-    title: "RVX Binary Format",
+    title: "RXI Binary Format",
     desc: "Custom binary format designed for efficient storage.",
-    link: "https://ravex2d0.github.io/rvx/"
+    link: "https://ravex2d0.github.io/rxi/"
   },
   {
     title: "LSB Steganography",
